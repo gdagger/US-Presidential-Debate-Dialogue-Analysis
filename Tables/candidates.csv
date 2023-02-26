@@ -3,34 +3,33 @@ candidate_id,name,party
 1,John F. Kennedy,D
 2,Gerald Ford,R
 3,Jimmy Carter,D
-4,Bob Dole,R
-5,Walter Mondale,D
-7,Ronald Reagan,R
-8,John B. Anderson,I
-10,George H. W. Bush,R
-12,Geraldine Ferraro,D
-13,Lloyd Bentsen,D
-14,Dan Quayle,R
-16,Michael Dukakis,D
-18,Bill Clinton,D
-19,Ross Perot,I
-20,Al Gore,D
-22,James Stockdale,I
-24,Jack Kemp,R
-27,George W. Bush,R
-28,Joe Lieberman,D
-29,Secretary,R
-31,John Edwards,D
-32,John Kerry,D
-33,Dick Cheney,R
-35,Joe Biden,D
-36,Sarah Palin,R
-37,Barack Obama,D
-38,John McCain,R
-39,Paul Ryan,R
-40,Mitt Romney,R
-43,Tim Kaine,D
-44,Donald Trump,R
-45,Mike Pence,R
-46,Hillary Clinton,D
-50,Kamala Harris,D
+4,Ronald Reagan,R
+5,John B. Anderson,I
+6,Walter Mondale,D
+7,George H. W. Bush,R
+8,Geraldine Ferraro,D
+9,Michael Dukakis,D
+10,Dan Quayle,R
+11,Lloyd Bentsen,D
+12,Ross Perot,I
+13,Bill Clinton,D
+14,James Stockdale,I
+15,Al Gore,D
+16,Bob Dole,R
+17,Jack Kemp,R
+18,George W. Bush,R
+19,Secretary,R
+20,Joe Lieberman,D
+21,John Kerry,D
+22,John Edwards,D
+23,Dick Cheney,R
+24,Barack Obama,D
+25,Joe Biden,D
+26,Sarah Palin,R
+27,Mitt Romney,R
+28,Paul Ryan,R
+29,Donald Trump,R
+30,Hillary Clinton,D
+31,Mike Pence,R
+32,Tim Kaine,D
+33,Kamala Harris,D

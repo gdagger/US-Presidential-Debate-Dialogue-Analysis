@@ -1,36 +1,36 @@
-,candidate_id,candidate,party,debate_count,last_name
-0,0, Richard Nixon ,R,4,Nixon
-1,1, John F. Kennedy ,D,4,Kennedy
-2,2, Gerald Ford ,R,3,Ford
-3,3, Jimmy Carter ,D,3,Carter
-4,4, Bob Dole ,R,1,Dole
-5,5, Walter Mondale ,D,1,Mondale
-6,7, Ronald Reagan ,R,2,Reagan
-7,8, John B. Anderson ,I,2,Anderson
-8,10, George H. W. Bush ,R,1,Bush
-9,12, Geraldine Ferraro ,D,1,Ferraro
-10,13, Lloyd Bentsen ,D,1,Bentsen
-11,14, Dan Quayle ,R,1,Quayle
-12,16, Michael Dukakis ,D,2,Dukakis
-13,18, Bill Clinton ,D,3,Clinton
-14,19, Ross Perot ,I,3,Perot
-15,20, Al Gore ,D,1,Gore
-16,22, James Stockdale ,I,1,Stockdale
-17,24, Jack Kemp ,R,1,Kemp
-18,27, George W. Bush ,R,3,Bush
-19,28, Joe Lieberman ,D,1,Lieberman
-20,29,Secretary,R,1,Cheney
-21,31, John Edwards ,D,1,Edwards
-22,32, John Kerry ,D,3,Kerry
-23,33, Dick Cheney ,R,1,Cheney
-24,35, Joe Biden ,D,1,Biden
-25,36, Sarah Palin ,R,1,Palin
-26,37, Barack Obama ,D,3,Obama
-27,38, John McCain ,R,3,McCain
-28,39, Paul Ryan ,R,1,Ryan
-29,40, Mitt Romney ,R,3,Romney
-30,43, Tim Kaine ,D,1,Kaine
-31,44, Donald Trump ,R,3,Trump
-32,45, Mike Pence ,R,1,Pence
-33,46, Hillary Clinton ,D,3,Clinton
-34,50, Kamala Harris ,D,2,Harris
+candidate_id,name,party
+0,Richard Nixon,R
+1,John F. Kennedy,D
+2,Gerald Ford,R
+3,Jimmy Carter,D
+4,Bob Dole,R
+5,Walter Mondale,D
+7,Ronald Reagan,R
+8,John B. Anderson,I
+10,George H. W. Bush,R
+12,Geraldine Ferraro,D
+13,Lloyd Bentsen,D
+14,Dan Quayle,R
+16,Michael Dukakis,D
+18,Bill Clinton,D
+19,Ross Perot,I
+20,Al Gore,D
+22,James Stockdale,I
+24,Jack Kemp,R
+27,George W. Bush,R
+28,Joe Lieberman,D
+29,Secretary,R
+31,John Edwards,D
+32,John Kerry,D
+33,Dick Cheney,R
+35,Joe Biden,D
+36,Sarah Palin,R
+37,Barack Obama,D
+38,John McCain,R
+39,Paul Ryan,R
+40,Mitt Romney,R
+43,Tim Kaine,D
+44,Donald Trump,R
+45,Mike Pence,R
+46,Hillary Clinton,D
+50,Kamala Harris,D

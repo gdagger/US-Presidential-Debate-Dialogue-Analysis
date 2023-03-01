@@ -1,18 +1,18 @@
 candidate_id,name,party
-0,Richard Nixon,R
-1,John F. Kennedy,D
+0,John F. Kennedy,D
+1,Richard Nixon,R
 2,Gerald Ford,R
 3,Jimmy Carter,D
 4,Ronald Reagan,R
 5,John B. Anderson,I
 6,Walter Mondale,D
-7,George H. W. Bush,R
-8,Geraldine Ferraro,D
+7,Geraldine Ferraro,D
+8,George H. W. Bush,R
 9,Michael Dukakis,D
 10,Dan Quayle,R
 11,Lloyd Bentsen,D
-12,Ross Perot,I
-13,Bill Clinton,D
+12,Bill Clinton,D
+13,Ross Perot,I
 14,James Stockdale,I
 15,Al Gore,D
 16,Bob Dole,R
@@ -30,6 +30,6 @@ candidate_id,name,party
 28,Paul Ryan,R
 29,Donald Trump,R
 30,Hillary Clinton,D
-31,Mike Pence,R
-32,Tim Kaine,D
+31,Tim Kaine,D
+32,Mike Pence,R
 33,Kamala Harris,D
